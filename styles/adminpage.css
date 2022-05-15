@@ -1,0 +1,78 @@
+html {
+  font-size: 16px;
+
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://i.imgur.com/Ez6rbmZ.jpg%22");
+  background-size: cover;
+
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+}
+#title{
+
+
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.navbar{
+  height: 75px;
+  background: #280137;
+}
+.navbar-brand{
+  padding: 30px 30px;
+  background-size: contain;
+
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+.navbar-brand a:hover{
+  background: rgb(0, 0, 0, 1);
+  border-radius: 10px;
+}
+.nav-item a:hover{
+  background: rgb(0, 0, 0, 1);
+  border-radius: 6px;
+}
+
+.lead{
+  padding: 0 0 10% 0;
+  color: #ADD8E6;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+
+}
+.display-4{
+  padding: 10% 0 5% 0;
+  color: #ADD8E6;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+
+}
+.container {
+  max-width: 960px;
+  margin-bottom: .5rem;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+  margin-bottom: 2rem;
+}
