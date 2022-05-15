@@ -1,0 +1,70 @@
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://i.imgur.com/Ez6rbmZ.jpg%22");
+  background-size: cover;
+  height:100%;
+  overflow: scroll;
+}
+input[type=number].no-spinner::-webkit-inner-spin-button,
+   input[type=number]::-webkit-outer-spin-button {
+   -webkit-appearance: none;
+    margin: 0;
+}
+
+html{
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+.form1{
+  color: white;
+}
+.hello{
+  height: 5rem;
+}
+
+#title{
+
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.navbar{
+  height: 75px;
+  background: #280137;
+}
+.navbar-brand{
+  padding: 30px 30px;
+  background-size: contain;
+
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+.navbar-brand a:hover{
+  background: rgb(0, 0, 0, 1);
+  border-radius: 10px;
+}
+.nav-item a:hover{
+  background: rgb(0, 0, 0, 1);
+  border-radius: 6px;
+}
+.container{
+  color: white;
+}
+.fontcolor1{
+  color: white;
+}
